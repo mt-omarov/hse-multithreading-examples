@@ -2,4 +2,4 @@
 
 ## Результаты запуска тестов
 
-[!results](./images/results.png)
+![results](./images/results.png)
